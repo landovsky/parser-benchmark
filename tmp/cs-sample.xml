@@ -1,0 +1,1014 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<lei:LEIData xmlns:lei="http://www.leiroc.org/data/schema/leidata/2014" xmlns:gleif="http://www.gleif.org/concatenated-file/header-extension/1.1">
+  <lei:LEIHeader>
+    <lei:ContentDate>2017-08-10T09:00:01.974388+00:00</lei:ContentDate>
+    <lei:FileContent>COU_FULL_PUBLISHED</lei:FileContent>
+    <lei:RecordCount>539855</lei:RecordCount>
+    <lei:Extension>
+      <gleif:LOUSources>
+        <gleif:LOUSource>
+          <gleif:LOULEI>5493001KJTIIGC8Y1R12</gleif:LOULEI>
+          <gleif:LOUName>Bloomberg Finance L.P. (Bloomberg)</gleif:LOUName>
+          <gleif:RecordCount>1560</gleif:RecordCount>
+          <gleif:ContentDate>2017-08-09T18:25:02.263324-04:00</gleif:ContentDate>
+          <gleif:LastAttemptedDownloadDate>2017-08-10T09:00:01.974388+00:00</gleif:LastAttemptedDownloadDate>
+          <gleif:LastSuccessfulDownloadDate>2017-08-10T09:00:02.302273+00:00</gleif:LastSuccessfulDownloadDate>
+          <gleif:LastValidDownloadDate>2017-08-10T09:00:02.302273+00:00</gleif:LastValidDownloadDate>
+        </gleif:LOUSource>
+        <gleif:LOUSource>
+          <gleif:LOULEI>4469000001AVO26P9X86</gleif:LOULEI>
+          <gleif:LOUName>Asociación Mexicana de Estándares para el Comercio Electrónico A.C. (GS1 Mexico)</gleif:LOUName>
+          <gleif:RecordCount>8</gleif:RecordCount>
+          <gleif:ContentDate>2017-08-10T00:00:14.3740381-05:00</gleif:ContentDate>
+          <gleif:LastAttemptedDownloadDate>2017-08-10T09:00:01.974388+00:00</gleif:LastAttemptedDownloadDate>
+          <gleif:LastSuccessfulDownloadDate>2017-08-10T09:00:02.425347+00:00</gleif:LastSuccessfulDownloadDate>
+          <gleif:LastValidDownloadDate>2017-08-10T09:00:02.425347+00:00</gleif:LastValidDownloadDate>
+        </gleif:LOUSource>
+        <gleif:LOUSource>
+          <gleif:LOULEI>48510000JZ17NWGUA510</gleif:LOULEI>
+          <gleif:LOUName>Central Securities Clearing Corporation (Centralna klirinško depotna družba d.d.- KDD), Slovenia</gleif:LOUName>
+          <gleif:RecordCount>361</gleif:RecordCount>
+          <gleif:ContentDate>2017-08-09T20:50:06Z</gleif:ContentDate>
+          <gleif:LastAttemptedDownloadDate>2017-08-10T09:00:01.974388+00:00</gleif:LastAttemptedDownloadDate>
+          <gleif:LastSuccessfulDownloadDate>2017-08-10T09:00:02.877789+00:00</gleif:LastSuccessfulDownloadDate>
+          <gleif:LastValidDownloadDate>2017-08-10T09:00:02.877789+00:00</gleif:LastValidDownloadDate>
+        </gleif:LOUSource>
+        <gleif:LOUSource>
+          <gleif:LOULEI>378900F4A0A690EA6735</gleif:LOULEI>
+          <gleif:LOUName>Strate (Pty) Ltd</gleif:LOUName>
+          <gleif:RecordCount>46</gleif:RecordCount>
+          <gleif:ContentDate>2017-08-01T15:40:19.717+02:00</gleif:ContentDate>
+          <gleif:LastAttemptedDownloadDate>2017-08-10T09:00:01.974388+00:00</gleif:LastAttemptedDownloadDate>
+          <gleif:LastSuccessfulDownloadDate>2017-08-10T09:00:04.825695+00:00</gleif:LastSuccessfulDownloadDate>
+          <gleif:LastValidDownloadDate>2017-08-10T09:00:04.825695+00:00</gleif:LastValidDownloadDate>
+        </gleif:LOUSource>
+        <gleif:LOUSource>
+          <gleif:LOULEI>39120001KULK7200U106</gleif:LOULEI>
+          <gleif:LOUName>Bundesanzeiger Verlag GmbH (Bundesanzeiger Verlag)</gleif:LOUName>
+          <gleif:RecordCount>3329</gleif:RecordCount>
+          <gleif:ContentDate>2017-08-10T08:00:05.909+02:00</gleif:ContentDate>
+          <gleif:LastAttemptedDownloadDate>2017-08-10T09:00:01.974388+00:00</gleif:LastAttemptedDownloadDate>
+          <gleif:LastSuccessfulDownloadDate>2017-08-10T09:00:05.076183+00:00</gleif:LastSuccessfulDownloadDate>
+          <gleif:LastValidDownloadDate>2017-08-10T09:00:05.076183+00:00</gleif:LastValidDownloadDate>
+        </gleif:LOUSource>
+        <gleif:LOUSource>
+          <gleif:LOULEI>029200067A7K6CH0H586</gleif:LOULEI>
+          <gleif:LOUName>Central Securities Clearing System plc of Nigeria</gleif:LOUName>
+          <gleif:RecordCount>223</gleif:RecordCount>
+          <gleif:ContentDate>2017-08-10T10:37:47Z</gleif:ContentDate>
+          <gleif:LastAttemptedDownloadDate>2017-08-10T09:00:01.974388+00:00</gleif:LastAttemptedDownloadDate>
+          <gleif:LastSuccessfulDownloadDate>2017-08-10T09:00:05.241394+00:00</gleif:LastSuccessfulDownloadDate>
+          <gleif:LastValidDownloadDate>2017-08-10T09:00:05.241394+00:00</gleif:LastValidDownloadDate>
+        </gleif:LOUSource>
+        <gleif:LOUSource>
+          <gleif:LOULEI>097900BEFH0000000217</gleif:LOULEI>
+          <gleif:LOUName>Centrálny depozitár cenných papierov SR, a.s. (Central Securities Depository of the Slovak Republic CDCP)</gleif:LOUName>
+          <gleif:RecordCount>709</gleif:RecordCount>
+          <gleif:ContentDate>2017-08-09T19:37:24.000</gleif:ContentDate>
+          <gleif:LastAttemptedDownloadDate>2017-08-10T09:00:01.974388+00:00</gleif:LastAttemptedDownloadDate>
+          <gleif:LastSuccessfulDownloadDate>2017-08-10T09:00:05.430480+00:00</gleif:LastSuccessfulDownloadDate>
+          <gleif:LastValidDownloadDate>2017-08-10T09:00:05.430480+00:00</gleif:LastValidDownloadDate>
+        </gleif:LOUSource>
+        <gleif:LOUSource>
+          <gleif:LOULEI>315700LK78Z7C0WMIL03</gleif:LOULEI>
+          <gleif:LOUName>Centrální depozitář cenných papírů a.s. (CSD Prague)</gleif:LOUName>
+          <gleif:RecordCount>9392</gleif:RecordCount>
+          <gleif:ContentDate>2017-08-09T00:00:00+02:00</gleif:ContentDate>
+          <gleif:LastAttemptedDownloadDate>2017-08-10T09:00:01.974388+00:00</gleif:LastAttemptedDownloadDate>
+          <gleif:LastSuccessfulDownloadDate>2017-08-10T09:00:08.280711+00:00</gleif:LastSuccessfulDownloadDate>
+          <gleif:LastValidDownloadDate>2017-08-10T09:00:08.280711+00:00</gleif:LastValidDownloadDate>
+        </gleif:LOUSource>
+        <gleif:LOUSource>
+          <gleif:LOULEI>300300KDIZ11PV2GH547</gleif:LOULEI>
+          <gleif:LOUName>China Financial Standardization Technical Committee</gleif:LOUName>
+          <gleif:RecordCount>291</gleif:RecordCount>
+          <gleif:ContentDate>2017-08-10T08:10:00.176+08:00</gleif:ContentDate>
+          <gleif:LastAttemptedDownloadDate>2017-08-10T09:00:01.974388+00:00</gleif:LastAttemptedDownloadDate>
+          <gleif:LastSuccessfulDownloadDate>2017-08-10T09:00:08.489862+00:00</gleif:LastSuccessfulDownloadDate>
+          <gleif:LastValidDownloadDate>2017-08-10T09:00:08.489862+00:00</gleif:LastValidDownloadDate>
+        </gleif:LOUSource>
+        <gleif:LOUSource>
+          <gleif:LOULEI>335800FVH4MOKZS9VH40</gleif:LOULEI>
+          <gleif:LOUName>Legal Entity Identifier India Limited (LEIL)</gleif:LOUName>
+          <gleif:RecordCount>370</gleif:RecordCount>
+          <gleif:ContentDate>2017-08-09T18:10:01.580Z</gleif:ContentDate>
+          <gleif:LastAttemptedDownloadDate>2017-08-10T09:00:01.974388+00:00</gleif:LastAttemptedDownloadDate>
+          <gleif:LastSuccessfulDownloadDate>2017-08-10T09:00:08.618165+00:00</gleif:LastSuccessfulDownloadDate>
+          <gleif:LastValidDownloadDate>2017-08-10T09:00:08.618165+00:00</gleif:LastValidDownloadDate>
+        </gleif:LOUSource>
+        <gleif:LOUSource>
+          <gleif:LOULEI>743700OO8O2N3TQKJC81</gleif:LOULEI>
+          <gleif:LOUName>Finnish Patent and Registration Office (PRH)</gleif:LOUName>
+          <gleif:RecordCount>3009</gleif:RecordCount>
+          <gleif:ContentDate>2017-08-10T04:45:00+03:00</gleif:ContentDate>
+          <gleif:LastAttemptedDownloadDate>2017-08-10T09:00:01.974388+00:00</gleif:LastAttemptedDownloadDate>
+          <gleif:LastSuccessfulDownloadDate>2017-08-10T09:00:10.157564+00:00</gleif:LastSuccessfulDownloadDate>
+          <gleif:LastValidDownloadDate>2017-08-10T09:00:10.157564+00:00</gleif:LastValidDownloadDate>
+        </gleif:LOUSource>
+        <gleif:LOUSource>
+          <gleif:LOULEI>EVK05KS7XY1DEII3R011</gleif:LOULEI>
+          <gleif:LOUName>Business Entity Data B.V. (GMEI Utility a service of BED B.V.)</gleif:LOUName>
+          <gleif:RecordCount>256617</gleif:RecordCount>
+          <gleif:ContentDate>2017-08-10T02:34:28.954Z</gleif:ContentDate>
+          <gleif:LastAttemptedDownloadDate>2017-08-10T09:00:01.974388+00:00</gleif:LastAttemptedDownloadDate>
+          <gleif:LastSuccessfulDownloadDate>2017-08-10T09:00:19.259583+00:00</gleif:LastSuccessfulDownloadDate>
+          <gleif:LastValidDownloadDate>2017-08-10T09:00:19.259583+00:00</gleif:LastValidDownloadDate>
+        </gleif:LOUSource>
+        <gleif:LOUSource>
+          <gleif:LOULEI>969500Q2MA9VBQ8BG884</gleif:LOULEI>
+          <gleif:LOUName>Institut national de la statistique et des études économiques (Insee)</gleif:LOUName>
+          <gleif:RecordCount>30371</gleif:RecordCount>
+          <gleif:ContentDate>2017-08-09T22:30:00.000+02:00</gleif:ContentDate>
+          <gleif:LastAttemptedDownloadDate>2017-08-10T09:00:01.974388+00:00</gleif:LastAttemptedDownloadDate>
+          <gleif:LastSuccessfulDownloadDate>2017-08-10T09:00:23.722107+00:00</gleif:LastSuccessfulDownloadDate>
+          <gleif:LastValidDownloadDate>2017-08-10T09:00:23.722107+00:00</gleif:LastValidDownloadDate>
+        </gleif:LOUSource>
+        <gleif:LOUSource>
+          <gleif:LOULEI>635400DZBUIMTBCXGA12</gleif:LOULEI>
+          <gleif:LOUName>Irish Stock Exchange</gleif:LOUName>
+          <gleif:RecordCount>4491</gleif:RecordCount>
+          <gleif:ContentDate>2017-08-10T00:05:33+01:00</gleif:ContentDate>
+          <gleif:LastAttemptedDownloadDate>2017-08-10T09:00:01.974388+00:00</gleif:LastAttemptedDownloadDate>
+          <gleif:LastSuccessfulDownloadDate>2017-08-10T09:00:26.512878+00:00</gleif:LastSuccessfulDownloadDate>
+          <gleif:LastValidDownloadDate>2017-08-10T09:00:26.512878+00:00</gleif:LastValidDownloadDate>
+        </gleif:LOUSource>
+        <gleif:LOUSource>
+          <gleif:LOULEI>353800279ADEFGKNTV65</gleif:LOULEI>
+          <gleif:LOUName>Tokyo Stock Exchange, Inc. (Japan Exchange Group/Tokyo Stock Exchange (JPX/TSE))</gleif:LOUName>
+          <gleif:RecordCount>5029</gleif:RecordCount>
+          <gleif:ContentDate>2017-08-10T06:00:10+09:00</gleif:ContentDate>
+          <gleif:LastAttemptedDownloadDate>2017-08-10T09:00:01.974388+00:00</gleif:LastAttemptedDownloadDate>
+          <gleif:LastSuccessfulDownloadDate>2017-08-10T09:02:19.318619+00:00</gleif:LastSuccessfulDownloadDate>
+          <gleif:LastValidDownloadDate>2017-08-10T09:02:19.318619+00:00</gleif:LastValidDownloadDate>
+        </gleif:LOUSource>
+        <gleif:LOUSource>
+          <gleif:LOULEI>9884008RRMX1X5HV6625</gleif:LOULEI>
+          <gleif:LOUName>Korea Securities Depository (KSD)</gleif:LOUName>
+          <gleif:RecordCount>92</gleif:RecordCount>
+          <gleif:ContentDate>2017-08-09T23:59:59Z</gleif:ContentDate>
+          <gleif:LastAttemptedDownloadDate>2017-08-10T09:00:01.974388+00:00</gleif:LastAttemptedDownloadDate>
+          <gleif:LastSuccessfulDownloadDate>2017-08-10T09:02:19.480277+00:00</gleif:LastSuccessfulDownloadDate>
+          <gleif:LastValidDownloadDate>2017-08-10T09:02:19.480277+00:00</gleif:LastValidDownloadDate>
+        </gleif:LOUSource>
+        <gleif:LOUSource>
+          <gleif:LOULEI>259400L3KBYEVNHEJF55</gleif:LOULEI>
+          <gleif:LOUName>Krajowy Depozyt Papierów Wartościowych S.A. (KDPW)</gleif:LOUName>
+          <gleif:RecordCount>8467</gleif:RecordCount>
+          <gleif:ContentDate>2017-08-09T23:59:59+02:00</gleif:ContentDate>
+          <gleif:LastAttemptedDownloadDate>2017-08-10T09:00:01.974388+00:00</gleif:LastAttemptedDownloadDate>
+          <gleif:LastSuccessfulDownloadDate>2017-08-10T09:02:19.936730+00:00</gleif:LastSuccessfulDownloadDate>
+          <gleif:LastValidDownloadDate>2017-08-10T09:02:19.936730+00:00</gleif:LastValidDownloadDate>
+        </gleif:LOUSource>
+        <gleif:LOUSource>
+          <gleif:LOULEI>213800D1EI4B9WTWWD28</gleif:LOULEI>
+          <gleif:LOUName>London Stock Exchange</gleif:LOUName>
+          <gleif:RecordCount>51835</gleif:RecordCount>
+          <gleif:ContentDate>2017-08-09T18:03:00Z</gleif:ContentDate>
+          <gleif:LastAttemptedDownloadDate>2017-08-10T09:00:01.974388+00:00</gleif:LastAttemptedDownloadDate>
+          <gleif:LastSuccessfulDownloadDate>2017-08-10T09:02:22.207566+00:00</gleif:LastSuccessfulDownloadDate>
+          <gleif:LastValidDownloadDate>2017-08-10T09:02:22.207566+00:00</gleif:LastValidDownloadDate>
+        </gleif:LOUSource>
+        <gleif:LOUSource>
+          <gleif:LOULEI>222100T6ICDIY8V4VX70</gleif:LOULEI>
+          <gleif:LOUName>LuxCSD S. A.</gleif:LOUName>
+          <gleif:RecordCount>2757</gleif:RecordCount>
+          <gleif:ContentDate>2017-08-10T02:34:30.254Z</gleif:ContentDate>
+          <gleif:LastAttemptedDownloadDate>2017-08-10T09:00:01.974388+00:00</gleif:LastAttemptedDownloadDate>
+          <gleif:LastSuccessfulDownloadDate>2017-08-10T09:02:22.739787+00:00</gleif:LastSuccessfulDownloadDate>
+          <gleif:LastValidDownloadDate>2017-08-10T09:02:22.739787+00:00</gleif:LastValidDownloadDate>
+        </gleif:LOUSource>
+        <gleif:LOUSource>
+          <gleif:LOULEI>253400M18U5TB02TW421</gleif:LOULEI>
+          <gleif:LOUName>National Settlement Depository (NSD), Russia</gleif:LOUName>
+          <gleif:RecordCount>886</gleif:RecordCount>
+          <gleif:ContentDate>2017-08-09T17:30:14.4766158+03:00</gleif:ContentDate>
+          <gleif:LastAttemptedDownloadDate>2017-08-10T09:00:01.974388+00:00</gleif:LastAttemptedDownloadDate>
+          <gleif:LastSuccessfulDownloadDate>2017-08-10T09:02:22.938333+00:00</gleif:LastSuccessfulDownloadDate>
+          <gleif:LastValidDownloadDate>2017-08-10T09:02:22.938333+00:00</gleif:LastValidDownloadDate>
+        </gleif:LOUSource>
+        <gleif:LOUSource>
+          <gleif:LOULEI>724500A93Z8V1MJK5349</gleif:LOULEI>
+          <gleif:LOUName>Netherlands Chamber of Commerce (KvK)</gleif:LOUName>
+          <gleif:RecordCount>16350</gleif:RecordCount>
+          <gleif:ContentDate>2017-08-10T00:45:38.665+02:00</gleif:ContentDate>
+          <gleif:LastAttemptedDownloadDate>2017-08-10T09:00:01.974388+00:00</gleif:LastAttemptedDownloadDate>
+          <gleif:LastSuccessfulDownloadDate>2017-08-10T09:02:24.472886+00:00</gleif:LastSuccessfulDownloadDate>
+          <gleif:LastValidDownloadDate>2017-08-10T09:02:24.472886+00:00</gleif:LastValidDownloadDate>
+        </gleif:LOUSource>
+        <gleif:LOUSource>
+          <gleif:LOULEI>959800R2X69K6Y6MX775</gleif:LOULEI>
+          <gleif:LOUName>Registro Mercantil del Reino de España</gleif:LOUName>
+          <gleif:RecordCount>18822</gleif:RecordCount>
+          <gleif:ContentDate>2017-08-09T23:59:59.999+02:00</gleif:ContentDate>
+          <gleif:LastAttemptedDownloadDate>2017-08-10T09:00:01.974388+00:00</gleif:LastAttemptedDownloadDate>
+          <gleif:LastSuccessfulDownloadDate>2017-08-10T09:02:25.979196+00:00</gleif:LastSuccessfulDownloadDate>
+          <gleif:LastValidDownloadDate>2017-08-10T09:02:25.979196+00:00</gleif:LastValidDownloadDate>
+        </gleif:LOUSource>
+        <gleif:LOUSource>
+          <gleif:LOULEI>789000TVSB96MCOKSB52</gleif:LOULEI>
+          <gleif:LOUName>Takasbank - İstanbul Takas ve Saklama Bankası A.Ş.</gleif:LOUName>
+          <gleif:RecordCount>183</gleif:RecordCount>
+          <gleif:ContentDate>2017-08-10T08:30:26.698384+03:00</gleif:ContentDate>
+          <gleif:LastAttemptedDownloadDate>2017-08-10T09:00:01.974388+00:00</gleif:LastAttemptedDownloadDate>
+          <gleif:LastSuccessfulDownloadDate>2017-08-10T09:02:29.921013+00:00</gleif:LastSuccessfulDownloadDate>
+          <gleif:LastValidDownloadDate>2017-08-10T09:02:29.921013+00:00</gleif:LastValidDownloadDate>
+        </gleif:LOUSource>
+        <gleif:LOUSource>
+          <gleif:LOULEI>815600EAD78C57FCE690</gleif:LOULEI>
+          <gleif:LOUName>Unione Italiana per le Camere di Commercio, Industria, Artigianato e Agricoltura</gleif:LOUName>
+          <gleif:RecordCount>48437</gleif:RecordCount>
+          <gleif:ContentDate>2017-08-10T05:45:05.123+02:00</gleif:ContentDate>
+          <gleif:LastAttemptedDownloadDate>2017-08-10T09:00:01.974388+00:00</gleif:LastAttemptedDownloadDate>
+          <gleif:LastSuccessfulDownloadDate>2017-08-10T09:02:31.610264+00:00</gleif:LastSuccessfulDownloadDate>
+          <gleif:LastValidDownloadDate>2017-08-10T09:02:31.610264+00:00</gleif:LastValidDownloadDate>
+        </gleif:LOUSource>
+        <gleif:LOUSource>
+          <gleif:LOULEI>5299000J2N45DDNE4Y28</gleif:LOULEI>
+          <gleif:LOUName>Herausgebergemeinschaft WERTPAPIER-MITTEILUNGEN Keppler, Lehmann GmbH &amp; Co.KG (WM Datenservice)</gleif:LOUName>
+          <gleif:RecordCount>74975</gleif:RecordCount>
+          <gleif:ContentDate>2017-08-10T02:01:02+02:00</gleif:ContentDate>
+          <gleif:LastAttemptedDownloadDate>2017-08-10T09:00:01.974388+00:00</gleif:LastAttemptedDownloadDate>
+          <gleif:LastSuccessfulDownloadDate>2017-08-10T09:02:34.888177+00:00</gleif:LastSuccessfulDownloadDate>
+          <gleif:LastValidDownloadDate>2017-08-10T09:02:34.888177+00:00</gleif:LastValidDownloadDate>
+        </gleif:LOUSource>
+        <gleif:LOUSource>
+          <gleif:LOULEI>7478000050A040C0D041</gleif:LOULEI>
+          <gleif:LOUName>Zagrebačka burza d.d. (Zagreb Stock Exchange, ZSE)</gleif:LOUName>
+          <gleif:RecordCount>465</gleif:RecordCount>
+          <gleif:ContentDate>2017-08-09T22:00:01Z</gleif:ContentDate>
+          <gleif:LastAttemptedDownloadDate>2017-08-10T09:00:01.974388+00:00</gleif:LastAttemptedDownloadDate>
+          <gleif:LastSuccessfulDownloadDate>2017-08-10T09:02:35.667279+00:00</gleif:LastSuccessfulDownloadDate>
+          <gleif:LastValidDownloadDate>2017-08-10T09:02:35.667279+00:00</gleif:LastValidDownloadDate>
+        </gleif:LOUSource>
+        <gleif:LOUSource>
+          <gleif:LOULEI>579100KKDDKIFCBKB062</gleif:LOULEI>
+          <gleif:LOUName>Registro de Identificación de Entidades del BCRA (Central Bank of Argentina LEI issuing organization)</gleif:LOUName>
+          <gleif:RecordCount>145</gleif:RecordCount>
+          <gleif:ContentDate>2017-08-10T05:00:03-03:00</gleif:ContentDate>
+          <gleif:LastAttemptedDownloadDate>2017-08-10T09:00:01.974388+00:00</gleif:LastAttemptedDownloadDate>
+          <gleif:LastSuccessfulDownloadDate>2017-08-10T09:02:35.889228+00:00</gleif:LastSuccessfulDownloadDate>
+          <gleif:LastValidDownloadDate>2017-08-10T09:02:35.889228+00:00</gleif:LastValidDownloadDate>
+        </gleif:LOUSource>
+        <gleif:LOUSource>
+          <gleif:LOULEI>558600FNC30A8J9EGQ54</gleif:LOULEI>
+          <gleif:LOUName>Saudi Arabia Credit Bureau</gleif:LOUName>
+          <gleif:RecordCount>125</gleif:RecordCount>
+          <gleif:ContentDate>2017-08-09T23:00:00.837+03:00</gleif:ContentDate>
+          <gleif:LastAttemptedDownloadDate>2017-08-10T09:00:01.974388+00:00</gleif:LastAttemptedDownloadDate>
+          <gleif:LastSuccessfulDownloadDate>2017-08-10T09:02:36.033534+00:00</gleif:LastSuccessfulDownloadDate>
+          <gleif:LastValidDownloadDate>2017-08-10T09:02:36.033534+00:00</gleif:LastValidDownloadDate>
+        </gleif:LOUSource>
+        <gleif:LOUSource>
+          <gleif:LOULEI>261700K5E45DJCF5Z735</gleif:LOULEI>
+          <gleif:LOUName>APIR Systems Limited</gleif:LOUName>
+          <gleif:RecordCount>220</gleif:RecordCount>
+          <gleif:ContentDate>2017-08-09T23:00:01+10:00</gleif:ContentDate>
+          <gleif:LastAttemptedDownloadDate>2017-08-10T09:00:01.974388+00:00</gleif:LastAttemptedDownloadDate>
+          <gleif:LastSuccessfulDownloadDate>2017-08-10T09:02:39.809891+00:00</gleif:LastSuccessfulDownloadDate>
+          <gleif:LastValidDownloadDate>2017-08-10T09:02:39.809891+00:00</gleif:LastValidDownloadDate>
+        </gleif:LOUSource>
+        <gleif:LOUSource>
+          <gleif:LOULEI>967600100PAMYB9QBQ02</gleif:LOULEI>
+          <gleif:LOUName>GS1 Germany GmbH (GS1 Germany)</gleif:LOUName>
+          <gleif:RecordCount>290</gleif:RecordCount>
+          <gleif:ContentDate>2017-08-10T08:08:23Z</gleif:ContentDate>
+          <gleif:LastAttemptedDownloadDate>2017-08-10T09:00:01.974388+00:00</gleif:LastAttemptedDownloadDate>
+          <gleif:LastSuccessfulDownloadDate>2017-08-10T09:02:39.946650+00:00</gleif:LastSuccessfulDownloadDate>
+          <gleif:LastValidDownloadDate>2017-08-10T09:02:39.946650+00:00</gleif:LastValidDownloadDate>
+        </gleif:LOUSource>
+      </gleif:LOUSources>
+    </lei:Extension>
+  </lei:LEIHeader>
+  <lei:LEIRecords>
+    <lei:LEIRecord>
+      <lei:LEI>0BY45GEF32ZDMC370E43</lei:LEI>
+      <lei:Entity>
+        <lei:LegalName>Drawbridge Long Dated Value Fund II (B) LP</lei:LegalName>
+        <lei:LegalAddress>
+          <lei:Line1>C/O National Corporate Research, Ltd.</lei:Line1>
+          <lei:Line2>850 New Burton Road</lei:Line2>
+          <lei:Line3>Suite 201</lei:Line3>
+          <lei:City>Dover</lei:City>
+          <lei:Region>US-DE</lei:Region>
+          <lei:Country>US</lei:Country>
+          <lei:PostalCode>19904</lei:PostalCode>
+        </lei:LegalAddress>
+        <lei:HeadquartersAddress>
+          <lei:Line1>C/O Drawbridge Long Dated Value Advisors LLC</lei:Line1>
+          <lei:Line2>46th Floor</lei:Line2>
+          <lei:Line3>1345 Avenue of the Americas</lei:Line3>
+          <lei:City>New York</lei:City>
+          <lei:Region>US-NY</lei:Region>
+          <lei:Country>US</lei:Country>
+          <lei:PostalCode>10105</lei:PostalCode>
+        </lei:HeadquartersAddress>
+        <lei:BusinessRegisterEntityID register="RA000602">4061611</lei:BusinessRegisterEntityID>
+        <lei:LegalJurisdiction>US-DE</lei:LegalJurisdiction>
+        <lei:LegalForm>LIMITED PARTNERSHIP</lei:LegalForm>
+        <lei:AssociatedEntity type="FUND_FAMILY">
+          <lei:AssociatedLEI>YMFNCFHBYJG8ANAKA811</lei:AssociatedLEI>
+        </lei:AssociatedEntity>
+        <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+      </lei:Entity>
+      <lei:Registration>
+        <lei:InitialRegistrationDate>2012-11-21T15:02:15.804Z</lei:InitialRegistrationDate>
+        <lei:LastUpdateDate>2017-07-14T20:20:06.207Z</lei:LastUpdateDate>
+        <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+        <lei:NextRenewalDate>2018-07-14T20:20:06.207Z</lei:NextRenewalDate>
+        <lei:ManagingLOU>5493001KJTIIGC8Y1R12</lei:ManagingLOU>
+        <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+      </lei:Registration>
+    </lei:LEIRecord>
+    <lei:LEIRecord>
+      <lei:LEI>0KI513U38P254A4IFP31</lei:LEI>
+      <lei:Entity>
+        <lei:LegalName>FRO UB Investments LLC</lei:LegalName>
+        <lei:LegalAddress>
+          <lei:Line1>C/O The Corporation Trust Company</lei:Line1>
+          <lei:Line2>Corporation Trust Center</lei:Line2>
+          <lei:Line3>1209 Orange Street</lei:Line3>
+          <lei:City>Wilmington</lei:City>
+          <lei:Region>US-DE</lei:Region>
+          <lei:Country>US</lei:Country>
+          <lei:PostalCode>19801</lei:PostalCode>
+        </lei:LegalAddress>
+        <lei:HeadquartersAddress>
+          <lei:Line1>C/O Fortress Real Estate Opportunities Advisors LLC</lei:Line1>
+          <lei:Line2>46th Floor</lei:Line2>
+          <lei:Line3>1345 Avenue of the Americas</lei:Line3>
+          <lei:City>New York</lei:City>
+          <lei:Region>US-NY</lei:Region>
+          <lei:Country>US</lei:Country>
+          <lei:PostalCode>10105</lei:PostalCode>
+        </lei:HeadquartersAddress>
+        <lei:BusinessRegisterEntityID register="RA000602">5035251</lei:BusinessRegisterEntityID>
+        <lei:LegalJurisdiction>US-DE</lei:LegalJurisdiction>
+        <lei:LegalForm>LIMITED LIABILITY COMPANY</lei:LegalForm>
+        <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+      </lei:Entity>
+      <lei:Registration>
+        <lei:InitialRegistrationDate>2012-11-21T15:03:40.983Z</lei:InitialRegistrationDate>
+        <lei:LastUpdateDate>2017-07-14T20:21:44.814Z</lei:LastUpdateDate>
+        <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+        <lei:NextRenewalDate>2018-07-14T20:21:44.816Z</lei:NextRenewalDate>
+        <lei:ManagingLOU>5493001KJTIIGC8Y1R12</lei:ManagingLOU>
+        <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+      </lei:Registration>
+    </lei:LEIRecord>
+    <lei:LEIRecord>
+      <lei:LEI>1TQQ1F10UYW801TNUV23</lei:LEI>
+      <lei:Entity>
+        <lei:LegalName>Fortress Partners Fund LP</lei:LegalName>
+        <lei:LegalAddress>
+          <lei:Line1>850 New Burton Road</lei:Line1>
+          <lei:Line2>Suite 201</lei:Line2>
+          <lei:City>Dover</lei:City>
+          <lei:Region>US-DE</lei:Region>
+          <lei:Country>US</lei:Country>
+          <lei:PostalCode>19904</lei:PostalCode>
+        </lei:LegalAddress>
+        <lei:HeadquartersAddress>
+          <lei:Line1>C/O Fortress Partners Advisors LLC</lei:Line1>
+          <lei:Line2>47th Floor</lei:Line2>
+          <lei:Line3>1345 Avenue of the Americas</lei:Line3>
+          <lei:City>New York</lei:City>
+          <lei:Region>US-NY</lei:Region>
+          <lei:Country>US</lei:Country>
+          <lei:PostalCode>10105</lei:PostalCode>
+        </lei:HeadquartersAddress>
+        <lei:BusinessRegisterEntityID register="RA000602">4172517</lei:BusinessRegisterEntityID>
+        <lei:LegalJurisdiction>US-DE</lei:LegalJurisdiction>
+        <lei:LegalForm>LIMITED PARTNERSHIP</lei:LegalForm>
+        <lei:AssociatedEntity type="FUND_FAMILY">
+          <lei:AssociatedEntityName>Fortress Partners Advisors LLC</lei:AssociatedEntityName>
+        </lei:AssociatedEntity>
+        <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+      </lei:Entity>
+      <lei:Registration>
+        <lei:InitialRegistrationDate>2012-12-07T17:51:35.978Z</lei:InitialRegistrationDate>
+        <lei:LastUpdateDate>2017-07-14T20:21:46.707Z</lei:LastUpdateDate>
+        <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+        <lei:NextRenewalDate>2018-07-14T20:21:46.708Z</lei:NextRenewalDate>
+        <lei:ManagingLOU>5493001KJTIIGC8Y1R12</lei:ManagingLOU>
+        <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+      </lei:Registration>
+    </lei:LEIRecord>
+    <lei:LEIRecord>
+      <lei:LEI>213800L88QLU23AVIT63</lei:LEI>
+      <lei:Entity>
+        <lei:LegalName>ATOMVEST LIMITED</lei:LegalName>
+        <lei:LegalAddress>
+          <lei:Line1>LEVEL 7, UNIT 751, 2 EXCHANGE SQUARE</lei:Line1>
+          <lei:Line2>8 CONNAUGHT PLACE CENTRAL</lei:Line2>
+          <lei:City>HONG KONG</lei:City>
+          <lei:Country>HK</lei:Country>
+          <lei:PostalCode>999077</lei:PostalCode>
+        </lei:LegalAddress>
+        <lei:HeadquartersAddress>
+          <lei:Line1>LEVEL 7, UNIT 751, 2 EXCHANGE SQUARE</lei:Line1>
+          <lei:Line2>8 CONNAUGHT PLACE CENTRAL</lei:Line2>
+          <lei:City>HONG KONG</lei:City>
+          <lei:Country>HK</lei:Country>
+          <lei:PostalCode>999077</lei:PostalCode>
+        </lei:HeadquartersAddress>
+        <lei:BusinessRegisterEntityID register="RA000388">2177959</lei:BusinessRegisterEntityID>
+        <lei:LegalJurisdiction>HK</lei:LegalJurisdiction>
+        <lei:LegalForm>PRIVATE LIMITED COMPANY</lei:LegalForm>
+        <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+      </lei:Entity>
+      <lei:Registration>
+        <lei:InitialRegistrationDate>2016-08-05T00:00:00.000Z</lei:InitialRegistrationDate>
+        <lei:LastUpdateDate>2017-06-27T19:22:09.025Z</lei:LastUpdateDate>
+        <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+        <lei:NextRenewalDate>2018-06-27T19:22:09.026Z</lei:NextRenewalDate>
+        <lei:ManagingLOU>5493001KJTIIGC8Y1R12</lei:ManagingLOU>
+        <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+      </lei:Registration>
+    </lei:LEIRecord>
+    <lei:LEIRecord>
+      <lei:LEI>213800R4G3N2G68CHU37</lei:LEI>
+      <lei:Entity>
+        <lei:LegalName>BARCLAYS DRYROCK ISSUANCE TRUST</lei:LegalName>
+        <lei:LegalAddress>
+          <lei:Line1>C/O WILMINGTON TRUST</lei:Line1>
+          <lei:Line2>NATIONAL ASSOCIATION</lei:Line2>
+          <lei:Line3>RODNEY SQUARE NORTH</lei:Line3>
+          <lei:Line4>1100 NORTH MARKET STREET</lei:Line4>
+          <lei:City>WILMINGTON</lei:City>
+          <lei:Region>US-DE</lei:Region>
+          <lei:Country>US</lei:Country>
+          <lei:PostalCode>19890</lei:PostalCode>
+        </lei:LegalAddress>
+        <lei:HeadquartersAddress>
+          <lei:Line1>C/O WILMINGTON TRUST</lei:Line1>
+          <lei:Line2>NATIONAL ASSOCIATION</lei:Line2>
+          <lei:Line3>RODNEY SQUARE NORTH</lei:Line3>
+          <lei:Line4>1100 NORTH MARKET STREET</lei:Line4>
+          <lei:City>WILMINGTON</lei:City>
+          <lei:Region>US-DE</lei:Region>
+          <lei:Country>US</lei:Country>
+          <lei:PostalCode>19890</lei:PostalCode>
+        </lei:HeadquartersAddress>
+        <lei:BusinessRegisterEntityID register="RA000602">5166902</lei:BusinessRegisterEntityID>
+        <lei:LegalJurisdiction>US-DE</lei:LegalJurisdiction>
+        <lei:LegalForm>TRUST</lei:LegalForm>
+        <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+      </lei:Entity>
+      <lei:Registration>
+        <lei:InitialRegistrationDate>2016-08-09T00:00:00.000Z</lei:InitialRegistrationDate>
+        <lei:LastUpdateDate>2017-06-21T16:20:34.075Z</lei:LastUpdateDate>
+        <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+        <lei:NextRenewalDate>2018-06-21T16:20:34.077Z</lei:NextRenewalDate>
+        <lei:ManagingLOU>5493001KJTIIGC8Y1R12</lei:ManagingLOU>
+        <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+      </lei:Registration>
+    </lei:LEIRecord>
+    <lei:LEIRecord>
+      <lei:LEI>2221000N0GRF62YN0A28</lei:LEI>
+      <lei:Entity>
+        <lei:LegalName>CF Stefano Property Holdings S.à r.l.</lei:LegalName>
+        <lei:OtherEntityNames>
+          <lei:OtherEntityName type="PREFERRED_ASCII_TRANSLITERATED_LEGAL">CF Stefano Property Holdings S.a r.l.</lei:OtherEntityName>
+        </lei:OtherEntityNames>
+        <lei:LegalAddress>
+          <lei:Line1>2-4, rue Beck</lei:Line1>
+          <lei:City>Luxembourg</lei:City>
+          <lei:Country>LU</lei:Country>
+          <lei:PostalCode>L-1222</lei:PostalCode>
+        </lei:LegalAddress>
+        <lei:HeadquartersAddress>
+          <lei:Line1>C/O Fortress Investment Group (UK) Ltd.</lei:Line1>
+          <lei:Line2>5 Saville Row</lei:Line2>
+          <lei:City>London</lei:City>
+          <lei:Country>GB</lei:Country>
+          <lei:PostalCode>W1S 3PB</lei:PostalCode>
+        </lei:HeadquartersAddress>
+        <lei:BusinessRegisterEntityID register="RA000432">B197125</lei:BusinessRegisterEntityID>
+        <lei:LegalJurisdiction>LU</lei:LegalJurisdiction>
+        <lei:LegalForm>SOCIETE A RESPONSABILITE LIMITEE</lei:LegalForm>
+        <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+      </lei:Entity>
+      <lei:Registration>
+        <lei:InitialRegistrationDate>2012-11-21T15:01:33.005Z</lei:InitialRegistrationDate>
+        <lei:LastUpdateDate>2017-07-14T20:20:05.752Z</lei:LastUpdateDate>
+        <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+        <lei:NextRenewalDate>2018-07-14T20:20:05.753Z</lei:NextRenewalDate>
+        <lei:ManagingLOU>5493001KJTIIGC8Y1R12</lei:ManagingLOU>
+        <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+      </lei:Registration>
+    </lei:LEIRecord>
+    <lei:LEIRecord>
+      <lei:LEI>222100Y1BWNS1NM1Q002</lei:LEI>
+      <lei:Entity>
+        <lei:LegalName>CF Lambert Property Holdings S.à r.l.</lei:LegalName>
+        <lei:OtherEntityNames>
+          <lei:OtherEntityName type="PREFERRED_ASCII_TRANSLITERATED_LEGAL">CF Lambert Property Holdings S.a r.l.</lei:OtherEntityName>
+        </lei:OtherEntityNames>
+        <lei:LegalAddress>
+          <lei:Line1>2-4, rue Beck</lei:Line1>
+          <lei:City>Luxembourg</lei:City>
+          <lei:Country>LU</lei:Country>
+          <lei:PostalCode>L-1222</lei:PostalCode>
+        </lei:LegalAddress>
+        <lei:HeadquartersAddress>
+          <lei:Line1>C/O Fortress Investment Group (UK) Ltd.</lei:Line1>
+          <lei:Line2>5 Saville Row</lei:Line2>
+          <lei:City>London</lei:City>
+          <lei:Country>GB</lei:Country>
+          <lei:PostalCode>W1S 3PB</lei:PostalCode>
+        </lei:HeadquartersAddress>
+        <lei:BusinessRegisterEntityID register="RA000432">B188074</lei:BusinessRegisterEntityID>
+        <lei:LegalJurisdiction>LU</lei:LegalJurisdiction>
+        <lei:LegalForm>SOCIETE A RESPONSABILITE LIMITEE</lei:LegalForm>
+        <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+      </lei:Entity>
+      <lei:Registration>
+        <lei:InitialRegistrationDate>2014-11-26T01:46:26.145Z</lei:InitialRegistrationDate>
+        <lei:LastUpdateDate>2017-07-14T20:20:07.973Z</lei:LastUpdateDate>
+        <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+        <lei:NextRenewalDate>2018-07-14T20:20:07.974Z</lei:NextRenewalDate>
+        <lei:ManagingLOU>5493001KJTIIGC8Y1R12</lei:ManagingLOU>
+        <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+      </lei:Registration>
+    </lei:LEIRecord>
+    <lei:LEIRecord>
+      <lei:LEI>25490000OGVJZR74L509</lei:LEI>
+      <lei:Entity>
+        <lei:LegalName>Utah Mortgage Loan Corporation</lei:LegalName>
+        <lei:LegalAddress>
+          <lei:Line1>488 East 6400 South</lei:Line1>
+          <lei:Line2>#300</lei:Line2>
+          <lei:City>Salt Lake City</lei:City>
+          <lei:Region>US-UT</lei:Region>
+          <lei:Country>US</lei:Country>
+          <lei:PostalCode>84107</lei:PostalCode>
+        </lei:LegalAddress>
+        <lei:HeadquartersAddress>
+          <lei:Line1>488 East 6400 South</lei:Line1>
+          <lei:Line2>#300</lei:Line2>
+          <lei:City>Salt Lake City</lei:City>
+          <lei:Region>US-UT</lei:Region>
+          <lei:Country>US</lei:Country>
+          <lei:PostalCode>84107</lei:PostalCode>
+        </lei:HeadquartersAddress>
+        <lei:BusinessRegisterEntityID register="RA000638">1099419-0142</lei:BusinessRegisterEntityID>
+        <lei:LegalJurisdiction>US-UT</lei:LegalJurisdiction>
+        <lei:LegalForm>Corporation</lei:LegalForm>
+        <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+      </lei:Entity>
+      <lei:Registration>
+        <lei:InitialRegistrationDate>2017-06-20T11:27:48.318Z</lei:InitialRegistrationDate>
+        <lei:LastUpdateDate>2017-06-20T11:27:48.318Z</lei:LastUpdateDate>
+        <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+        <lei:NextRenewalDate>2018-06-20T11:27:48.319Z</lei:NextRenewalDate>
+        <lei:ManagingLOU>5493001KJTIIGC8Y1R12</lei:ManagingLOU>
+        <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+      </lei:Registration>
+    </lei:LEIRecord>
+    <lei:LEIRecord>
+      <lei:LEI>25490002QDEB2KTLNK39</lei:LEI>
+      <lei:Entity>
+        <lei:LegalName>Latvijas Republika, ko pārstāv Latvijas Republikas Valsts kase</lei:LegalName>
+        <lei:OtherEntityNames>
+          <lei:OtherEntityName type="PREFERRED_ASCII_TRANSLITERATED_LEGAL">The Treasury of Republic of Latvia</lei:OtherEntityName>
+        </lei:OtherEntityNames>
+        <lei:LegalAddress>
+          <lei:Line1>Smilsu iela 1</lei:Line1>
+          <lei:City>Riga</lei:City>
+          <lei:Country>LV</lei:Country>
+          <lei:PostalCode>LV-1919</lei:PostalCode>
+        </lei:LegalAddress>
+        <lei:HeadquartersAddress>
+          <lei:Line1>Smilsu iela 1</lei:Line1>
+          <lei:City>Riga</lei:City>
+          <lei:Country>LV</lei:Country>
+          <lei:PostalCode>LV-1919</lei:PostalCode>
+        </lei:HeadquartersAddress>
+        <lei:BusinessRegisterEntityID register="RA999999">90000597275</lei:BusinessRegisterEntityID>
+        <lei:LegalJurisdiction>LV</lei:LegalJurisdiction>
+        <lei:LegalForm>Public institution</lei:LegalForm>
+        <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+      </lei:Entity>
+      <lei:Registration>
+        <lei:InitialRegistrationDate>2017-07-20T07:12:31.552Z</lei:InitialRegistrationDate>
+        <lei:LastUpdateDate>2017-07-20T07:12:31.552Z</lei:LastUpdateDate>
+        <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+        <lei:NextRenewalDate>2018-07-20T07:12:31.552Z</lei:NextRenewalDate>
+        <lei:ManagingLOU>5493001KJTIIGC8Y1R12</lei:ManagingLOU>
+        <lei:ValidationSources>ENTITY_SUPPLIED_ONLY</lei:ValidationSources>
+      </lei:Registration>
+    </lei:LEIRecord>
+    <lei:LEIRecord>
+      <lei:LEI>25490003YGASV5ENH153</lei:LEI>
+      <lei:Entity>
+        <lei:LegalName>Reliance State Bank</lei:LegalName>
+        <lei:LegalAddress>
+          <lei:Line1>606 Broad St</lei:Line1>
+          <lei:City>Story City</lei:City>
+          <lei:Region>US-IA</lei:Region>
+          <lei:Country>US</lei:Country>
+          <lei:PostalCode>50248</lei:PostalCode>
+        </lei:LegalAddress>
+        <lei:HeadquartersAddress>
+          <lei:Line1>606 Broad St</lei:Line1>
+          <lei:City>Story City</lei:City>
+          <lei:Region>US-IA</lei:Region>
+          <lei:Country>US</lei:Country>
+          <lei:PostalCode>50428</lei:PostalCode>
+        </lei:HeadquartersAddress>
+        <lei:BusinessRegisterEntityID register="RA000606">85047</lei:BusinessRegisterEntityID>
+        <lei:LegalJurisdiction>US-IA</lei:LegalJurisdiction>
+        <lei:LegalForm>Corporation</lei:LegalForm>
+        <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+      </lei:Entity>
+      <lei:Registration>
+        <lei:InitialRegistrationDate>2017-08-08T21:00:06.970Z</lei:InitialRegistrationDate>
+        <lei:LastUpdateDate>2017-08-08T21:00:06.970Z</lei:LastUpdateDate>
+        <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+        <lei:NextRenewalDate>2018-08-08T21:00:06.971Z</lei:NextRenewalDate>
+        <lei:ManagingLOU>5493001KJTIIGC8Y1R12</lei:ManagingLOU>
+        <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+      </lei:Registration>
+    </lei:LEIRecord>
+    <lei:LEIRecord>
+      <lei:LEI>25490004B8LKDPE9SE12</lei:LEI>
+      <lei:Entity>
+        <lei:LegalName>Atlantis Investment Management (Hong Kong) Limited</lei:LegalName>
+        <lei:OtherEntityNames>
+          <lei:OtherEntityName type="PREFERRED_ASCII_TRANSLITERATED_LEGAL">Atlantis Investment Management (Hong Kong) Limited</lei:OtherEntityName>
+        </lei:OtherEntityNames>
+        <lei:LegalAddress>
+          <lei:Line1>35/F, The Centrium</lei:Line1>
+          <lei:Line2>60 Wyndham Street</lei:Line2>
+          <lei:Line3>Central</lei:Line3>
+          <lei:City>Hong Kong</lei:City>
+          <lei:Country>HK</lei:Country>
+          <lei:PostalCode>00852</lei:PostalCode>
+        </lei:LegalAddress>
+        <lei:HeadquartersAddress>
+          <lei:Line1>35/F, The Centrium</lei:Line1>
+          <lei:Line2>60 Wyndham Street</lei:Line2>
+          <lei:Line3>Central</lei:Line3>
+          <lei:City>Hong Kong</lei:City>
+          <lei:Country>HK</lei:Country>
+          <lei:PostalCode>00852</lei:PostalCode>
+        </lei:HeadquartersAddress>
+        <lei:BusinessRegisterEntityID register="RA000390">AFH256</lei:BusinessRegisterEntityID>
+        <lei:LegalJurisdiction>HK</lei:LegalJurisdiction>
+        <lei:LegalForm>Limited Company</lei:LegalForm>
+        <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+      </lei:Entity>
+      <lei:Registration>
+        <lei:InitialRegistrationDate>2017-08-08T07:53:00.049Z</lei:InitialRegistrationDate>
+        <lei:LastUpdateDate>2017-08-08T07:53:00.049Z</lei:LastUpdateDate>
+        <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+        <lei:NextRenewalDate>2018-08-08T07:53:00.049Z</lei:NextRenewalDate>
+        <lei:ManagingLOU>5493001KJTIIGC8Y1R12</lei:ManagingLOU>
+        <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+      </lei:Registration>
+    </lei:LEIRecord>
+    <lei:LEIRecord>
+      <lei:LEI>25490004EH77G8CG3205</lei:LEI>
+      <lei:Entity>
+        <lei:LegalName>MCAP LLC</lei:LegalName>
+        <lei:OtherEntityNames>
+          <lei:OtherEntityName type="PREFERRED_ASCII_TRANSLITERATED_LEGAL">MCAP LLC</lei:OtherEntityName>
+        </lei:OtherEntityNames>
+        <lei:LegalAddress>
+          <lei:Line1>c/o Corporation Service Company</lei:Line1>
+          <lei:Line2>251 Little Falls Drive</lei:Line2>
+          <lei:City>Wilmington</lei:City>
+          <lei:Region>US-DE</lei:Region>
+          <lei:Country>US</lei:Country>
+          <lei:PostalCode>19808</lei:PostalCode>
+        </lei:LegalAddress>
+        <lei:HeadquartersAddress>
+          <lei:Line1>1633 Broadway 28th Floor</lei:Line1>
+          <lei:City>New York</lei:City>
+          <lei:Region>US-NY</lei:Region>
+          <lei:Country>US</lei:Country>
+          <lei:PostalCode>10514</lei:PostalCode>
+        </lei:HeadquartersAddress>
+        <lei:BusinessRegisterEntityID register="RA000602">4461662</lei:BusinessRegisterEntityID>
+        <lei:LegalJurisdiction>US-DE</lei:LegalJurisdiction>
+        <lei:LegalForm>LLC</lei:LegalForm>
+        <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+      </lei:Entity>
+      <lei:Registration>
+        <lei:InitialRegistrationDate>2017-07-06T13:41:54.320Z</lei:InitialRegistrationDate>
+        <lei:LastUpdateDate>2017-07-06T13:41:54.320Z</lei:LastUpdateDate>
+        <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+        <lei:NextRenewalDate>2018-07-06T13:41:54.321Z</lei:NextRenewalDate>
+        <lei:ManagingLOU>5493001KJTIIGC8Y1R12</lei:ManagingLOU>
+        <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+      </lei:Registration>
+    </lei:LEIRecord>
+    <lei:LEIRecord>
+      <lei:LEI>25490004HIQXR4TPCB88</lei:LEI>
+      <lei:Entity>
+        <lei:LegalName>Canadian Dentists' Insurance Company SCC</lei:LegalName>
+        <lei:LegalAddress>
+          <lei:Line1>2nd Floor</lei:Line1>
+          <lei:Line2>Hastings Financial Centre</lei:Line2>
+          <lei:Line4>Hastings</lei:Line4>
+          <lei:City>Christ Church</lei:City>
+          <lei:Country>BB</lei:Country>
+          <lei:PostalCode>BB15154</lei:PostalCode>
+        </lei:LegalAddress>
+        <lei:HeadquartersAddress>
+          <lei:Line1>2nd Floor</lei:Line1>
+          <lei:Line2>Hastings Financial Centre</lei:Line2>
+          <lei:Line4>Hastings</lei:Line4>
+          <lei:City>Christ Church</lei:City>
+          <lei:Country>BB</lei:Country>
+          <lei:PostalCode>BB15154</lei:PostalCode>
+        </lei:HeadquartersAddress>
+        <lei:BusinessRegisterEntityID register="RA000023">25866</lei:BusinessRegisterEntityID>
+        <lei:LegalJurisdiction>BB</lei:LegalJurisdiction>
+        <lei:LegalForm>Segregated Cell Company</lei:LegalForm>
+        <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+      </lei:Entity>
+      <lei:Registration>
+        <lei:InitialRegistrationDate>2017-08-09T18:01:26.740Z</lei:InitialRegistrationDate>
+        <lei:LastUpdateDate>2017-08-09T18:01:26.740Z</lei:LastUpdateDate>
+        <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+        <lei:NextRenewalDate>2018-08-09T18:01:26.740Z</lei:NextRenewalDate>
+        <lei:ManagingLOU>5493001KJTIIGC8Y1R12</lei:ManagingLOU>
+        <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+      </lei:Registration>
+    </lei:LEIRecord>
+    <lei:LEIRecord>
+      <lei:LEI>25490004VI9T96LWQO26</lei:LEI>
+      <lei:Entity>
+        <lei:LegalName>Falling Creek 2530 LLC</lei:LegalName>
+        <lei:OtherEntityNames>
+          <lei:OtherEntityName type="PREFERRED_ASCII_TRANSLITERATED_LEGAL">Falling Creek 2530 LLC</lei:OtherEntityName>
+        </lei:OtherEntityNames>
+        <lei:LegalAddress>
+          <lei:Line1>919 NORTH MARKET STREET</lei:Line1>
+          <lei:Line2>Suite 950</lei:Line2>
+          <lei:City>WILMINGTON</lei:City>
+          <lei:Region>US-DE</lei:Region>
+          <lei:Country>US</lei:Country>
+          <lei:PostalCode>19801</lei:PostalCode>
+        </lei:LegalAddress>
+        <lei:HeadquartersAddress>
+          <lei:Line1>1451 Rockville Pike</lei:Line1>
+          <lei:Line2>Suite 400</lei:Line2>
+          <lei:City>Rockville</lei:City>
+          <lei:Region>US-MD</lei:Region>
+          <lei:Country>US</lei:Country>
+          <lei:PostalCode>20852</lei:PostalCode>
+        </lei:HeadquartersAddress>
+        <lei:BusinessRegisterEntityID register="RA000602">6401154</lei:BusinessRegisterEntityID>
+        <lei:LegalJurisdiction>US-DE</lei:LegalJurisdiction>
+        <lei:LegalForm>Limited Liability Company</lei:LegalForm>
+        <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+      </lei:Entity>
+      <lei:Registration>
+        <lei:InitialRegistrationDate>2017-07-07T12:40:38.180Z</lei:InitialRegistrationDate>
+        <lei:LastUpdateDate>2017-07-07T12:40:38.180Z</lei:LastUpdateDate>
+        <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+        <lei:NextRenewalDate>2018-07-07T12:40:38.181Z</lei:NextRenewalDate>
+        <lei:ManagingLOU>5493001KJTIIGC8Y1R12</lei:ManagingLOU>
+        <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+      </lei:Registration>
+    </lei:LEIRecord>
+    <lei:LEIRecord>
+      <lei:LEI>25490004XX5DDMZX9P38</lei:LEI>
+      <lei:Entity>
+        <lei:LegalName>Multi Metals Harbour Pte Ltd</lei:LegalName>
+        <lei:OtherEntityNames>
+          <lei:OtherEntityName type="PREFERRED_ASCII_TRANSLITERATED_LEGAL">Multi Metals Harbour Pte Ltd</lei:OtherEntityName>
+        </lei:OtherEntityNames>
+        <lei:LegalAddress>
+          <lei:Line1>1, North Bridge Road</lei:Line1>
+          <lei:Line2>#10-05/06 HIGH STREET CENTRE</lei:Line2>
+          <lei:City>SINGAPORE</lei:City>
+          <lei:Country>SG</lei:Country>
+        </lei:LegalAddress>
+        <lei:HeadquartersAddress>
+          <lei:Line1>1, North Bridge Road</lei:Line1>
+          <lei:Line2>#10-05/06 HIGH STREET CENTRE</lei:Line2>
+          <lei:City>SINGAPORE</lei:City>
+          <lei:Country>SG</lei:Country>
+        </lei:HeadquartersAddress>
+        <lei:BusinessRegisterEntityID register="RA000523">201538885Z</lei:BusinessRegisterEntityID>
+        <lei:LegalJurisdiction>SG</lei:LegalJurisdiction>
+        <lei:LegalForm>LIMITED</lei:LegalForm>
+        <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+      </lei:Entity>
+      <lei:Registration>
+        <lei:InitialRegistrationDate>2017-06-16T08:51:37.159Z</lei:InitialRegistrationDate>
+        <lei:LastUpdateDate>2017-06-16T08:51:37.159Z</lei:LastUpdateDate>
+        <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+        <lei:NextRenewalDate>2018-06-16T08:51:37.159Z</lei:NextRenewalDate>
+        <lei:ManagingLOU>5493001KJTIIGC8Y1R12</lei:ManagingLOU>
+        <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+      </lei:Registration>
+    </lei:LEIRecord>
+    <lei:LEIRecord>
+      <lei:LEI>25490007RQZBTI91HW10</lei:LEI>
+      <lei:Entity>
+        <lei:LegalName>BT Asset Management SA I SA</lei:LegalName>
+        <lei:OtherEntityNames>
+          <lei:OtherEntityName type="PREFERRED_ASCII_TRANSLITERATED_LEGAL">BT Asset Management SA I SA</lei:OtherEntityName>
+        </lei:OtherEntityNames>
+        <lei:LegalAddress>
+          <lei:Line1>Emil Racovita Street, no.22</lei:Line1>
+          <lei:City>Cluj-Napoca</lei:City>
+          <lei:Region>RO-CJ</lei:Region>
+          <lei:Country>RO</lei:Country>
+          <lei:PostalCode>400165</lei:PostalCode>
+        </lei:LegalAddress>
+        <lei:HeadquartersAddress>
+          <lei:Line1>Emil Racovita Street, no.22</lei:Line1>
+          <lei:City>Cluj-Napoca</lei:City>
+          <lei:Region>RO-CJ</lei:Region>
+          <lei:Country>RO</lei:Country>
+          <lei:PostalCode>400165</lei:PostalCode>
+        </lei:HeadquartersAddress>
+        <lei:BusinessRegisterEntityID register="RA000498">PJR05SAIR/120016/29.03.2005</lei:BusinessRegisterEntityID>
+        <lei:LegalJurisdiction>RO-CJ</lei:LegalJurisdiction>
+        <lei:LegalForm>Corporation</lei:LegalForm>
+        <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+      </lei:Entity>
+      <lei:Registration>
+        <lei:InitialRegistrationDate>2017-08-07T11:54:58.812Z</lei:InitialRegistrationDate>
+        <lei:LastUpdateDate>2017-08-07T11:54:58.812Z</lei:LastUpdateDate>
+        <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+        <lei:NextRenewalDate>2018-08-07T11:54:58.812Z</lei:NextRenewalDate>
+        <lei:ManagingLOU>5493001KJTIIGC8Y1R12</lei:ManagingLOU>
+        <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+      </lei:Registration>
+    </lei:LEIRecord>
+    <lei:LEIRecord>
+      <lei:LEI>25490008E58FJ6W0UF31</lei:LEI>
+      <lei:Entity>
+        <lei:LegalName>Everbright Dynamic Bond Fund</lei:LegalName>
+        <lei:OtherEntityNames>
+          <lei:OtherEntityName type="PREFERRED_ASCII_TRANSLITERATED_LEGAL">Everbright Dynamic Bond Fund</lei:OtherEntityName>
+        </lei:OtherEntityNames>
+        <lei:LegalAddress>
+          <lei:Line1>Cricket Square</lei:Line1>
+          <lei:Line2>Hutchins Drive,</lei:Line2>
+          <lei:Line3>P.O. Box 2681</lei:Line3>
+          <lei:Line4>Grand Cayman KY1-1111</lei:Line4>
+          <lei:City>Cayman Islands</lei:City>
+          <lei:Country>KY</lei:Country>
+        </lei:LegalAddress>
+        <lei:HeadquartersAddress>
+          <lei:Line1>46/F, Far East Finance Centre,</lei:Line1>
+          <lei:Line2>16 Harcour Road,</lei:Line2>
+          <lei:Line3>Admiralty</lei:Line3>
+          <lei:City>Hong Kong</lei:City>
+          <lei:Country>HK</lei:Country>
+        </lei:HeadquartersAddress>
+        <lei:BusinessRegisterEntityID register="RA000087">CT-269899</lei:BusinessRegisterEntityID>
+        <lei:LegalJurisdiction>KY</lei:LegalJurisdiction>
+        <lei:LegalForm>Corporation</lei:LegalForm>
+        <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+      </lei:Entity>
+      <lei:Registration>
+        <lei:InitialRegistrationDate>2017-07-10T17:14:12.103Z</lei:InitialRegistrationDate>
+        <lei:LastUpdateDate>2017-07-10T17:14:12.103Z</lei:LastUpdateDate>
+        <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+        <lei:NextRenewalDate>2018-07-10T17:14:12.104Z</lei:NextRenewalDate>
+        <lei:ManagingLOU>5493001KJTIIGC8Y1R12</lei:ManagingLOU>
+        <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+      </lei:Registration>
+    </lei:LEIRecord>
+    <lei:LEIRecord>
+      <lei:LEI>254900098L1CRLQ9UW35</lei:LEI>
+      <lei:Entity>
+        <lei:LegalName>Kestrel S.A.</lei:LegalName>
+        <lei:LegalAddress>
+          <lei:Line1>Chemin de Trois-Portes 11</lei:Line1>
+          <lei:City>Neuchatel</lei:City>
+          <lei:Country>CH</lei:Country>
+          <lei:PostalCode>2000</lei:PostalCode>
+        </lei:LegalAddress>
+        <lei:HeadquartersAddress>
+          <lei:Line1>Chemin de Trois-Portes 11</lei:Line1>
+          <lei:City>Neuchatel</lei:City>
+          <lei:Country>CH</lei:Country>
+          <lei:PostalCode>2000</lei:PostalCode>
+        </lei:HeadquartersAddress>
+        <lei:BusinessRegisterEntityID register="RA000548">CHE-103.267.505</lei:BusinessRegisterEntityID>
+        <lei:LegalJurisdiction>CH</lei:LegalJurisdiction>
+        <lei:LegalForm>Société anonyme</lei:LegalForm>
+        <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+      </lei:Entity>
+      <lei:Registration>
+        <lei:InitialRegistrationDate>2017-08-09T13:01:27.212Z</lei:InitialRegistrationDate>
+        <lei:LastUpdateDate>2017-08-09T13:01:27.212Z</lei:LastUpdateDate>
+        <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+        <lei:NextRenewalDate>2018-08-09T13:01:27.212Z</lei:NextRenewalDate>
+        <lei:ManagingLOU>5493001KJTIIGC8Y1R12</lei:ManagingLOU>
+        <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+      </lei:Registration>
+    </lei:LEIRecord>
+    <lei:LEIRecord>
+      <lei:LEI>2549000AILT0S3JB6U32</lei:LEI>
+      <lei:Entity>
+        <lei:LegalName>Stirling Medical Lacombe, LLC</lei:LegalName>
+        <lei:LegalAddress>
+          <lei:Line1>201 St. Charles Ave</lei:Line1>
+          <lei:City>New Orleans</lei:City>
+          <lei:Region>US-LA</lei:Region>
+          <lei:Country>US</lei:Country>
+          <lei:PostalCode>70170</lei:PostalCode>
+        </lei:LegalAddress>
+        <lei:HeadquartersAddress>
+          <lei:Line1>109 Northpark BLVD, Suite 300</lei:Line1>
+          <lei:City>Covington</lei:City>
+          <lei:Region>US-LA</lei:Region>
+          <lei:Country>US</lei:Country>
+          <lei:PostalCode>70433</lei:PostalCode>
+        </lei:HeadquartersAddress>
+        <lei:BusinessRegisterEntityID register="RA000612">42580171K</lei:BusinessRegisterEntityID>
+        <lei:LegalJurisdiction>US-LA</lei:LegalJurisdiction>
+        <lei:LegalForm>LLC</lei:LegalForm>
+        <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+      </lei:Entity>
+      <lei:Registration>
+        <lei:InitialRegistrationDate>2017-05-25T21:30:12.725Z</lei:InitialRegistrationDate>
+        <lei:LastUpdateDate>2017-05-25T21:30:12.725Z</lei:LastUpdateDate>
+        <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+        <lei:NextRenewalDate>2018-05-25T21:30:12.726Z</lei:NextRenewalDate>
+        <lei:ManagingLOU>5493001KJTIIGC8Y1R12</lei:ManagingLOU>
+        <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+      </lei:Registration>
+    </lei:LEIRecord>
+    <lei:LEIRecord>
+      <lei:LEI>2549000BFX2MHJAEPB46</lei:LEI>
+      <lei:Entity>
+        <lei:LegalName>PYRUM LTD.</lei:LegalName>
+        <lei:OtherEntityNames>
+          <lei:OtherEntityName type="PREFERRED_ASCII_TRANSLITERATED_LEGAL">PYRUM LTD.</lei:OtherEntityName>
+        </lei:OtherEntityNames>
+        <lei:LegalAddress>
+          <lei:Line1>MARCY BUILDING, 2ND FLOOR</lei:Line1>
+          <lei:Line2>PURCELL ESTATE</lei:Line2>
+          <lei:Line3>P.O. BOX 2416</lei:Line3>
+          <lei:Line4>TORTOLA</lei:Line4>
+          <lei:City>ROAD TOWN</lei:City>
+          <lei:Country>VG</lei:Country>
+          <lei:PostalCode>VG1110</lei:PostalCode>
+        </lei:LegalAddress>
+        <lei:HeadquartersAddress>
+          <lei:Line1>AV. CONTRALMIRANTE MORA, 148</lei:Line1>
+          <lei:Line2>DEPT. 701</lei:Line2>
+          <lei:City>SAN ISIDRO</lei:City>
+          <lei:Region>PE-LIM</lei:Region>
+          <lei:Country>PE</lei:Country>
+          <lei:PostalCode>27</lei:PostalCode>
+        </lei:HeadquartersAddress>
+        <lei:BusinessRegisterEntityID register="RA000063">1940867</lei:BusinessRegisterEntityID>
+        <lei:LegalJurisdiction>VG</lei:LegalJurisdiction>
+        <lei:LegalForm>LIMITED PARTNERSHIP</lei:LegalForm>
+        <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+      </lei:Entity>
+      <lei:Registration>
+        <lei:InitialRegistrationDate>2017-05-17T06:24:48.437Z</lei:InitialRegistrationDate>
+        <lei:LastUpdateDate>2017-05-17T06:24:48.437Z</lei:LastUpdateDate>
+        <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+        <lei:NextRenewalDate>2018-05-17T06:24:48.437Z</lei:NextRenewalDate>
+        <lei:ManagingLOU>5493001KJTIIGC8Y1R12</lei:ManagingLOU>
+        <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+      </lei:Registration>
+    </lei:LEIRecord>
+    <lei:LEIRecord>
+      <lei:LEI>2549000BL57D7H75EI05</lei:LEI>
+      <lei:Entity>
+        <lei:LegalName>Anella Limited</lei:LegalName>
+        <lei:LegalAddress>
+          <lei:Line1>2 Royston Road</lei:Line1>
+          <lei:Line4>Richmond</lei:Line4>
+          <lei:City>London</lei:City>
+          <lei:Country>GB</lei:Country>
+          <lei:PostalCode>TW10 6LT</lei:PostalCode>
+        </lei:LegalAddress>
+        <lei:HeadquartersAddress>
+          <lei:Line1>2 Royston Road</lei:Line1>
+          <lei:Line4>Richmond</lei:Line4>
+          <lei:City>London</lei:City>
+          <lei:Country>GB</lei:Country>
+          <lei:PostalCode>TW10 6LT</lei:PostalCode>
+        </lei:HeadquartersAddress>
+        <lei:BusinessRegisterEntityID register="RA000585">10460085</lei:BusinessRegisterEntityID>
+        <lei:LegalJurisdiction>GB</lei:LegalJurisdiction>
+        <lei:LegalForm>Private Limited Company</lei:LegalForm>
+        <lei:EntityStatus>ACTIVE</lei:EntityStatus>
+      </lei:Entity>
+      <lei:Registration>
+        <lei:InitialRegistrationDate>2017-07-27T15:11:44.112Z</lei:InitialRegistrationDate>
+        <lei:LastUpdateDate>2017-07-27T15:11:44.112Z</lei:LastUpdateDate>
+        <lei:RegistrationStatus>ISSUED</lei:RegistrationStatus>
+        <lei:NextRenewalDate>2018-07-27T15:11:44.113Z</lei:NextRenewalDate>
+        <lei:ManagingLOU>5493001KJTIIGC8Y1R12</lei:ManagingLOU>
+        <lei:ValidationSources>FULLY_CORROBORATED</lei:ValidationSources>
+      </lei:Registration>
+    </lei:LEIRecord>
+	</lei:LEIRecords>
+</lei:LEIData>

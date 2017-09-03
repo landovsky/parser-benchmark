@@ -1,0 +1,2603 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root xmlns:wb="http://www.worldbank.org">
+  <data>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1960</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1961</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1962</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1963</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1964</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1965</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1966</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1967</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1968</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1969</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1970</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1971</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1972</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1973</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1974</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1975</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1976</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1977</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1978</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1979</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1980</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1981</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1982</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1983</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1984</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1985</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1986</field>
+      <field name="Value">179.683</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1987</field>
+      <field name="Value">447.374</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1988</field>
+      <field name="Value">612.389</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1989</field>
+      <field name="Value">649.059</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1990</field>
+      <field name="Value">1730.824</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1991</field>
+      <field name="Value">1771.161</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1992</field>
+      <field name="Value">1558.475</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1993</field>
+      <field name="Value">1602.479</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1994</field>
+      <field name="Value">1595.145</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1995</field>
+      <field name="Value">1609.813</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1996</field>
+      <field name="Value">1617.147</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1997</field>
+      <field name="Value">1650.15</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1998</field>
+      <field name="Value">1712.489</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1999</field>
+      <field name="Value">1749.159</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2000</field>
+      <field name="Value">2321.211</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2001</field>
+      <field name="Value">2357.881</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2002</field>
+      <field name="Value">2372.549</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2003</field>
+      <field name="Value">2416.553</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2004</field>
+      <field name="Value">2420.22</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2005</field>
+      <field name="Value">2497.227</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2006</field>
+      <field name="Value">2497.227</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2007</field>
+      <field name="Value">2592.569</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2008</field>
+      <field name="Value">2508.228</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2009</field>
+      <field name="Value">2522.896</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2010</field>
+      <field name="Value">2456.89</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2011</field>
+      <field name="Value">2438.555</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2012</field>
+      <field name="Value">1301.785</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2013</field>
+      <field name="Value">876.413</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2014</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2015</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2016</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1960</field>
+      <field name="Value">414.371</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1961</field>
+      <field name="Value">491.378</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1962</field>
+      <field name="Value">689.396</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1963</field>
+      <field name="Value">707.731</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1964</field>
+      <field name="Value">839.743</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1965</field>
+      <field name="Value">1008.425</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1966</field>
+      <field name="Value">1092.766</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1967</field>
+      <field name="Value">1283.45</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1968</field>
+      <field name="Value">1224.778</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1969</field>
+      <field name="Value">942.419</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1970</field>
+      <field name="Value">1672.152</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1971</field>
+      <field name="Value">1895.839</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1972</field>
+      <field name="Value">1532.806</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1973</field>
+      <field name="Value">1639.149</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1974</field>
+      <field name="Value">1917.841</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1975</field>
+      <field name="Value">2126.86</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1976</field>
+      <field name="Value">1987.514</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1977</field>
+      <field name="Value">2390.884</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1978</field>
+      <field name="Value">2159.863</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1979</field>
+      <field name="Value">2240.537</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1980</field>
+      <field name="Value">1760.16</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1981</field>
+      <field name="Value">1983.847</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1982</field>
+      <field name="Value">2101.191</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1983</field>
+      <field name="Value">2522.896</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1984</field>
+      <field name="Value">2830.924</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1985</field>
+      <field name="Value">3509.319</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1986</field>
+      <field name="Value">3142.619</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1987</field>
+      <field name="Value">3124.284</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1988</field>
+      <field name="Value">2867.594</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1989</field>
+      <field name="Value">2775.919</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1990</field>
+      <field name="Value">2614.571</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1991</field>
+      <field name="Value">2438.555</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1992</field>
+      <field name="Value">1393.46</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1993</field>
+      <field name="Value">1345.789</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1994</field>
+      <field name="Value">1294.451</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1995</field>
+      <field name="Value">1243.113</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1996</field>
+      <field name="Value">1177.107</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1997</field>
+      <field name="Value">1096.433</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1998</field>
+      <field name="Value">1041.428</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1999</field>
+      <field name="Value">821.408</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2000</field>
+      <field name="Value">773.737</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2001</field>
+      <field name="Value">638.058</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2002</field>
+      <field name="Value">883.747</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2003</field>
+      <field name="Value">1026.76</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2004</field>
+      <field name="Value">949.753</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2005</field>
+      <field name="Value">1327.454</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2006</field>
+      <field name="Value">1650.15</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2007</field>
+      <field name="Value">2273.54</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2008</field>
+      <field name="Value">4217.05</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2009</field>
+      <field name="Value">6776.616</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2010</field>
+      <field name="Value">8470.77</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2011</field>
+      <field name="Value">12251.447</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2012</field>
+      <field name="Value">20454.526</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2013</field>
+      <field name="Value">21268.6</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2014</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2015</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AFG">Afghanistan</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2016</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1960</field>
+      <field name="Value">550.05</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1961</field>
+      <field name="Value">454.708</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1962</field>
+      <field name="Value">1180.774</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1963</field>
+      <field name="Value">1151.438</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1964</field>
+      <field name="Value">1224.778</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1965</field>
+      <field name="Value">1188.108</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1966</field>
+      <field name="Value">1554.808</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1967</field>
+      <field name="Value">993.757</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1968</field>
+      <field name="Value">1672.152</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1969</field>
+      <field name="Value">2786.92</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1970</field>
+      <field name="Value">3582.659</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1971</field>
+      <field name="Value">3410.31</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1972</field>
+      <field name="Value">4506.743</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1973</field>
+      <field name="Value">4880.777</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1974</field>
+      <field name="Value">4873.443</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1975</field>
+      <field name="Value">4415.068</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1976</field>
+      <field name="Value">3285.632</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1977</field>
+      <field name="Value">3534.988</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1978</field>
+      <field name="Value">5412.492</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1979</field>
+      <field name="Value">5504.167</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1980</field>
+      <field name="Value">5346.486</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1981</field>
+      <field name="Value">5280.48</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1982</field>
+      <field name="Value">4649.756</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1983</field>
+      <field name="Value">5115.465</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1984</field>
+      <field name="Value">5009.122</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1985</field>
+      <field name="Value">4701.094</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1986</field>
+      <field name="Value">4660.757</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1987</field>
+      <field name="Value">5815.862</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1988</field>
+      <field name="Value">5130.133</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1989</field>
+      <field name="Value">5009.122</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1990</field>
+      <field name="Value">5115.465</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1991</field>
+      <field name="Value">5089.796</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1992</field>
+      <field name="Value">5196.139</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1993</field>
+      <field name="Value">5775.525</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1994</field>
+      <field name="Value">3890.687</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1995</field>
+      <field name="Value">10975.331</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1996</field>
+      <field name="Value">10458.284</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1997</field>
+      <field name="Value">7381.671</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1998</field>
+      <field name="Value">7308.331</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1999</field>
+      <field name="Value">9156.499</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2000</field>
+      <field name="Value">9541.534</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2001</field>
+      <field name="Value">9732.218</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2002</field>
+      <field name="Value">12665.818</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2003</field>
+      <field name="Value">9064.824</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2004</field>
+      <field name="Value">18793.375</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2005</field>
+      <field name="Value">19156.408</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2006</field>
+      <field name="Value">22266.024</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2007</field>
+      <field name="Value">25151.953</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2008</field>
+      <field name="Value">25709.337</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2009</field>
+      <field name="Value">27792.193</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2010</field>
+      <field name="Value">29057.308</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2011</field>
+      <field name="Value">30340.758</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2012</field>
+      <field name="Value">33399.036</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2013</field>
+      <field name="Value">32463.951</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2014</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2015</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AGO">Angola</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2016</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1960</field>
+      <field name="Value">2024.184</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1961</field>
+      <field name="Value">2280.874</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1962</field>
+      <field name="Value">2464.224</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1963</field>
+      <field name="Value">2082.856</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1964</field>
+      <field name="Value">2016.85</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1965</field>
+      <field name="Value">2174.531</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1966</field>
+      <field name="Value">2552.232</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1967</field>
+      <field name="Value">2680.577</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1968</field>
+      <field name="Value">3072.946</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1969</field>
+      <field name="Value">3245.295</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1970</field>
+      <field name="Value">3744.007</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1971</field>
+      <field name="Value">4352.729</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1972</field>
+      <field name="Value">5643.513</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1973</field>
+      <field name="Value">5291.481</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1974</field>
+      <field name="Value">4345.395</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1975</field>
+      <field name="Value">4594.751</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1976</field>
+      <field name="Value">4950.45</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1977</field>
+      <field name="Value">5720.52</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1978</field>
+      <field name="Value">6494.257</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1979</field>
+      <field name="Value">7587.023</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1980</field>
+      <field name="Value">5170.47</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1981</field>
+      <field name="Value">7341.334</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1982</field>
+      <field name="Value">7308.331</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1983</field>
+      <field name="Value">7631.027</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1984</field>
+      <field name="Value">7825.378</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1985</field>
+      <field name="Value">7880.383</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1986</field>
+      <field name="Value">8056.399</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1987</field>
+      <field name="Value">7444.01</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1988</field>
+      <field name="Value">7326.666</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1989</field>
+      <field name="Value">8984.15</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1990</field>
+      <field name="Value">5309.816</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1991</field>
+      <field name="Value">4286.723</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1992</field>
+      <field name="Value">2515.562</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1993</field>
+      <field name="Value">2335.879</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1994</field>
+      <field name="Value">1925.175</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1995</field>
+      <field name="Value">2086.523</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1996</field>
+      <field name="Value">2016.85</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1997</field>
+      <field name="Value">1543.807</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1998</field>
+      <field name="Value">1752.826</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1999</field>
+      <field name="Value">2984.938</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2000</field>
+      <field name="Value">3021.608</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2001</field>
+      <field name="Value">3223.293</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2002</field>
+      <field name="Value">3751.341</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2003</field>
+      <field name="Value">4294.057</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2004</field>
+      <field name="Value">4165.712</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2005</field>
+      <field name="Value">4253.72</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2006</field>
+      <field name="Value">3898.021</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2007</field>
+      <field name="Value">3927.357</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2008</field>
+      <field name="Value">4374.731</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2009</field>
+      <field name="Value">4378.398</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2010</field>
+      <field name="Value">4598.418</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2011</field>
+      <field name="Value">5240.143</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2012</field>
+      <field name="Value">4712.095</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2013</field>
+      <field name="Value">4814.771</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2014</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2015</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ALB">Albania</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2016</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1960</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1961</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1962</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1963</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1964</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1965</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1966</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1967</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1968</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1969</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1970</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1971</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1972</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1973</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1974</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1975</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1976</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1977</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1978</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1979</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1980</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1981</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1982</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1983</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1984</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1985</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1986</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1987</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1988</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1989</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1990</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1991</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1992</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1993</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1994</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1995</field>
+      <field name="Value">407.037</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1996</field>
+      <field name="Value">425.372</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1997</field>
+      <field name="Value">458.375</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1998</field>
+      <field name="Value">484.044</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1999</field>
+      <field name="Value">513.38</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2000</field>
+      <field name="Value">524.381</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2001</field>
+      <field name="Value">524.381</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2002</field>
+      <field name="Value">531.715</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2003</field>
+      <field name="Value">535.382</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2004</field>
+      <field name="Value">564.718</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2005</field>
+      <field name="Value">575.719</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2006</field>
+      <field name="Value">546.383</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2007</field>
+      <field name="Value">539.049</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2008</field>
+      <field name="Value">539.049</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2009</field>
+      <field name="Value">517.047</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2010</field>
+      <field name="Value">517.047</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2011</field>
+      <field name="Value">491.378</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2012</field>
+      <field name="Value">491.378</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2013</field>
+      <field name="Value">491.378</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2014</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2015</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2016</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1960</field>
+      <field name="Value">59564.0818861558</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1961</field>
+      <field name="Value">65151.1971721615</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1962</field>
+      <field name="Value">74357.8234121763</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1963</field>
+      <field name="Value">87896.1159054674</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1964</field>
+      <field name="Value">103196.442128905</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1965</field>
+      <field name="Value">123828.389530882</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1966</field>
+      <field name="Value">139079.366484309</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1967</field>
+      <field name="Value">149731.192024344</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1968</field>
+      <field name="Value">178805.316801262</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1969</field>
+      <field name="Value">213131.944110155</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1970</field>
+      <field name="Value">220575.742247712</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1971</field>
+      <field name="Value">250916.193630871</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1972</field>
+      <field name="Value">272873.195829523</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1973</field>
+      <field name="Value">318600.433106489</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1974</field>
+      <field name="Value">310921.722207195</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1975</field>
+      <field name="Value">307787.10504276</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1976</field>
+      <field name="Value">373496.609115022</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1977</field>
+      <field name="Value">395284.767766176</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1978</field>
+      <field name="Value">425911.519077703</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1979</field>
+      <field name="Value">456160.207663309</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1980</field>
+      <field name="Value">508780.666292509</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1981</field>
+      <field name="Value">497497.512705305</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1982</field>
+      <field name="Value">476949.987077078</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1983</field>
+      <field name="Value">508652.198375934</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1984</field>
+      <field name="Value">554904.318854908</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1985</field>
+      <field name="Value">587087.367212946</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1986</field>
+      <field name="Value">648469.337752575</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1987</field>
+      <field name="Value">649739.334870718</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1988</field>
+      <field name="Value">688632.078985884</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1989</field>
+      <field name="Value">699720.695442275</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1990</field>
+      <field name="Value">706668.974473042</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1991</field>
+      <field name="Value">743660.393422894</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1992</field>
+      <field name="Value">802968.52473781</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1993</field>
+      <field name="Value">881796.438348351</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1994</field>
+      <field name="Value">908715.972638708</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1995</field>
+      <field name="Value">871977.819010104</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1996</field>
+      <field name="Value">864677.078641308</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1997</field>
+      <field name="Value">833719.590320332</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1998</field>
+      <field name="Value">906417.135622526</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1999</field>
+      <field name="Value">919955.058517561</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2000</field>
+      <field name="Value">1045846.735</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2001</field>
+      <field name="Value">1040749.605</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2002</field>
+      <field name="Value">1063085.302</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2003</field>
+      <field name="Value">1144089.332</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2004</field>
+      <field name="Value">1253497.944</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2005</field>
+      <field name="Value">1318158.155</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2006</field>
+      <field name="Value">1381468.91</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2007</field>
+      <field name="Value">1359826.276</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2008</field>
+      <field name="Value">1491365.233</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2009</field>
+      <field name="Value">1583318.925</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2010</field>
+      <field name="Value">1649918.979</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2011</field>
+      <field name="Value">1652929.586</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2012</field>
+      <field name="Value">1794538.125</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2013</field>
+      <field name="Value">1769708.868</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2014</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2015</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ARB">Arab World</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2016</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1960</field>
+      <field name="Value">11.001</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1961</field>
+      <field name="Value">11.001</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1962</field>
+      <field name="Value">18.335</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1963</field>
+      <field name="Value">22.002</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1964</field>
+      <field name="Value">18.335</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1965</field>
+      <field name="Value">22.002</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1966</field>
+      <field name="Value">25.669</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1967</field>
+      <field name="Value">916.75</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1968</field>
+      <field name="Value">1243.113</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1969</field>
+      <field name="Value">20524.199</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1970</field>
+      <field name="Value">15247.386</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1971</field>
+      <field name="Value">21184.259</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1972</field>
+      <field name="Value">23454.132</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1973</field>
+      <field name="Value">30630.451</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1974</field>
+      <field name="Value">31327.181</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1975</field>
+      <field name="Value">31070.491</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1976</field>
+      <field name="Value">39651.271</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1977</field>
+      <field name="Value">38785.859</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1978</field>
+      <field name="Value">44814.407</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1979</field>
+      <field name="Value">36607.661</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1980</field>
+      <field name="Value">36904.688</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1981</field>
+      <field name="Value">36857.017</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1982</field>
+      <field name="Value">36871.685</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1983</field>
+      <field name="Value">35342.546</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1984</field>
+      <field name="Value">46394.884</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1985</field>
+      <field name="Value">49926.205</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1986</field>
+      <field name="Value">47234.627</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1987</field>
+      <field name="Value">47693.002</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1988</field>
+      <field name="Value">48367.73</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1989</field>
+      <field name="Value">54487.953</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1990</field>
+      <field name="Value">52009.061</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1991</field>
+      <field name="Value">57010.849</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1992</field>
+      <field name="Value">58136.618</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1993</field>
+      <field name="Value">65980.331</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1994</field>
+      <field name="Value">73130.981</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1995</field>
+      <field name="Value">70641.088</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1996</field>
+      <field name="Value">41059.399</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1997</field>
+      <field name="Value">41646.119</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1998</field>
+      <field name="Value">81495.408</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1999</field>
+      <field name="Value">78374.791</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2000</field>
+      <field name="Value">112562.232</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2001</field>
+      <field name="Value">101414.552</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2002</field>
+      <field name="Value">84704.033</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2003</field>
+      <field name="Value">106841.712</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2004</field>
+      <field name="Value">113240.627</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2005</field>
+      <field name="Value">116148.558</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2006</field>
+      <field name="Value">123874.927</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2007</field>
+      <field name="Value">135627.662</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2008</field>
+      <field name="Value">157354.637</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2009</field>
+      <field name="Value">167959.601</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2010</field>
+      <field name="Value">160812.618</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2011</field>
+      <field name="Value">159584.173</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2012</field>
+      <field name="Value">172356.334</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2013</field>
+      <field name="Value">169122.04</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2014</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2015</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ARE">United Arab Emirates</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">2016</field>
+      <field name="Value" />
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1960</field>
+      <field name="Value">48815.104</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1961</field>
+      <field name="Value">51180.319</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1962</field>
+      <field name="Value">53695.881</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1963</field>
+      <field name="Value">50083.886</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1964</field>
+      <field name="Value">55727.399</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1965</field>
+      <field name="Value">58866.351</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1966</field>
+      <field name="Value">63138.406</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1967</field>
+      <field name="Value">65543.958</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1968</field>
+      <field name="Value">69082.613</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1969</field>
+      <field name="Value">77329.696</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1970</field>
+      <field name="Value">82734.854</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1971</field>
+      <field name="Value">88939.418</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1972</field>
+      <field name="Value">90156.862</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1973</field>
+      <field name="Value">94065.884</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1974</field>
+      <field name="Value">95569.354</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1975</field>
+      <field name="Value">94931.296</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1976</field>
+      <field name="Value">99786.404</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1977</field>
+      <field name="Value">100791.162</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1978</field>
+      <field name="Value">102639.33</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1979</field>
+      <field name="Value">110703.063</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1980</field>
+      <field name="Value">108737.551</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1981</field>
+      <field name="Value">102041.609</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1982</field>
+      <field name="Value">103424.068</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1983</field>
+      <field name="Value">105213.564</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1984</field>
+      <field name="Value">106522.683</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1985</field>
+      <field name="Value">100596.811</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1986</field>
+      <field name="Value">104212.473</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1987</field>
+      <field name="Value">114942.115</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1988</field>
+      <field name="Value">121473.042</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1989</field>
+      <field name="Value">117090.977</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1990</field>
+      <field name="Value">112613.57</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1991</field>
+      <field name="Value">117021.304</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1992</field>
+      <field name="Value">121447.373</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARG">Argentina</field>
+      <field name="Item" key="EN.ATM.CO2E.KT">CO2 emissions (kt)</field>
+      <field name="Year">1993</field>
+      <field name="Value">118609.115</field>
+    </record>
+    </data>
+</Root>
